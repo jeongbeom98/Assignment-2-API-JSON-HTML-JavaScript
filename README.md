@@ -19,7 +19,7 @@ This project is a web application that visualizes US Population data from the [D
 
 To view the web application:
 
-1. Clone this repository to your local machine using `git clone [repository-url]`.
+1. Clone this repository to your local machine using `git clone [https://github.com/jeongbeom98/Assignment-2-API-JSON-HTML-JavaScript.git]`.
 2. Open the `index.html` file in a modern web browser.
 3. The US Population data should load and display automatically.
 
