@@ -32,8 +32,8 @@ To view the web application:
 
 Below are screenshots depicting the application's interface and the network requests as captured by the browser's developer tools:
 
-![US Population Data Table](screenshots/US%20Population%20Data%20Table.pngUS Population Data Table.png)
-![Network Requests](screenshots/Network%20Requests.pngNetwork Requests.png)
+![US Population Data Table](screenshots/US Population Data Table.png)
+![Network Requests](screenshots/Network Requests.png)
 
 ## Technical Implementation
 
